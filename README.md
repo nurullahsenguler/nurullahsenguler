@@ -13,7 +13,7 @@ Yüksek dönüşüm oranına sahip e-ticaret deneyimleri ve modern web uygulamal
 | Proje | Teknoloji Yığını | Görünüm / Detay |
 | :--- | :--- | :--- |
 | **Nurullah Aksesuar Mağazası** | Shopify / Liquid | [Canlı Mağaza](https://nurullah-aksesuar.myshopify.com/) \| [Kaynak Kodu](https://github.com/nurullahsenguler/Shopify-Kad-n-Aksesuar-Ma-azas-) |
-| **Kadın Moda Butiği** | Shopify / Liquid | [Kaynak ve Demo](https://github.com/nurullahsenguler/[shopify-kadın-moda-mağazası](https://nurullah-moda.myshopify.com/)) |
+| **Kadın Moda Butiği** | Shopify / Liquid | [Kaynak Kodu](https://github.com/nurullahsenguler/shopify-kadın-moda-mağazası) \| [Canlı Demo](https://nurullah-moda.myshopify.com/) |
 | **SaaS Açılış Sayfası** | HTML / CSS / JS | [Canlı Önizleme](https://github.com/nurullahsenguler/SaaS-Açılış-Sayfası) |
 | **Ürün Satış Sayfası** | HTML / CSS | [Canlı Önizleme](https://github.com/nurullahsenguler/Ürün-İndirme-Sayfası) |
 
