@@ -1,34 +1,23 @@
-# 👋 Hello, I'm Nurullah Şengüler!
+👋 Merhaba ben Nurullah Şengüler!
 
-### 🛍️ Shopify Expert & Frontend Developer
-I build high-converting e-commerce experiences and modern web applications. Specialized in **Liquid**, **Shopify Theme Customization**, and **UI/UX Optimization**.
+🛍️ **Shopify Uzmanı ve Ön Uç Geliştirici**  
+Yüksek dönüşüm oranına sahip e-ticaret deneyimleri ve modern web uygulamaları geliştiriyorum. Liquid, Shopify Tema Özelleştirme ve UI/UX Optimizasyonu konularında uzmanım.
 
----
+## 🛠️ Teknik Beceriler
+- **E-Ticaret:** Shopify (Liquid), Mağaza Kurulumu, Özel Bölümler.
+- **Ön Yüz Geliştirme:** HTML5, CSS3, JavaScript (ES6+), Duyarlı Web Tasarımı.
+- **Kullanılan Araçlar:** Git, GitHub, VS Code.
 
-### 🛠️ Technical Skills
-- **E-Commerce:** Shopify (Liquid), Store Setup, Custom Sections.
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+), Responsive Web Design.
-- **Tools:** Git, GitHub, VS Code.
+## 🚀 Öne Çıkan Projeler
 
----
-
-### 🚀 Featured Projects
-
-| Project | Tech Stack | View |
+| Proje | Teknoloji Yığını | Görünüm / Detay |
 | :--- | :--- | :--- |
-| **Women's Fashion Boutique** | Shopify / Liquid | [Source & Demo](https://github.com/nurullahsenguler/shopify-womens-fashion-store) |
-| **SaaS Landing Page** | HTML / CSS / JS | [Live Preview](https://nurullahsenguler.github.io/SaaS-Landing-Page/) |
-| **Product Sales Page** | HTML / CSS | [Live Preview](https://nurullahsenguler.github.io/Product-Landing-Page/) |
+| **Nurullah Aksesuar Mağazası** | Shopify / Liquid | [Canlı Mağaza](https://nurullah-aksesuar.myshopify.com/) \| [Kaynak Kodu](https://github.com/nurullahsenguler/Shopify-Kad-n-Aksesuar-Ma-azas-) |
+| **Kadın Moda Butiği** | Shopify / Liquid | [Kaynak ve Demo](https://github.com/nurullahsenguler/shopify-kadın-moda-mağazası) |
+| **SaaS Açılış Sayfası** | HTML / CSS / JS | [Canlı Önizleme](https://github.com/nurullahsenguler/SaaS-Açılış-Sayfası) |
+| **Ürün Satış Sayfası** | HTML / CSS | [Canlı Önizleme](https://github.com/nurullahsenguler/Ürün-İndirme-Sayfası) |
 
----
-
-### 📫 Connect with me
-- 💼 **Available for freelance projects on Upwork.**
-- 📧 **Email:** girisimcinurullah@gmail.com
-- 🌍 **Shopify Demo:** [Visit Live Store](https://nurullah-kozmetik-test.myshopify.com/) (Pass: 123)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nurullahsenguler&show_icons=true&theme=radical" alt="Nurullah's GitHub Stats" />
-</p>
+## 📫 Benimle İletişime Geçin
+- 💼 **Upwork:** [Profilimi Ziyaret Edin](https://www.upwork.com/freelancers/~01634eff2a1174bba5)
+- 📧 **E-posta:** girisimcinurullah@gmail.com
+- 🌍 **TikTok:** [@nurullahsnglr1](https://www.tiktok.com/@nurullahsnglr1)
